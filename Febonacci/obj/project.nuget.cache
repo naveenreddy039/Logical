@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShpzKK43NrpHwYRMynqEMXiha8GaxNFioRFfHEJb3aDsN0l8Or/OHyw3GPeKJZDLXYklpbZ715l6po+figjOcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Febonacci\\Febonacci\\Febonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\runtime.win.system.diagnostics.debug\\4.3.0\\runtime.win.system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Febonacci\Febonacci\bin\Debug\netcoreapp3.1\Febonacci.exe
+C:\Users\hp\source\repos\Febonacci\Febonacci\bin\Debug\netcoreapp3.1\Febonacci.deps.json
+C:\Users\hp\source\repos\Febonacci\Febonacci\bin\Debug\netcoreapp3.1\Febonacci.runtimeconfig.json
+C:\Users\hp\source\repos\Febonacci\Febonacci\bin\Debug\netcoreapp3.1\Febonacci.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Febonacci\Febonacci\bin\Debug\netcoreapp3.1\Febonacci.dll
+C:\Users\hp\source\repos\Febonacci\Febonacci\bin\Debug\netcoreapp3.1\Febonacci.pdb
+C:\Users\hp\source\repos\Febonacci\Febonacci\obj\Debug\netcoreapp3.1\Febonacci.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Febonacci\Febonacci\obj\Debug\netcoreapp3.1\Febonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Febonacci\Febonacci\obj\Debug\netcoreapp3.1\Febonacci.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Febonacci\Febonacci\obj\Debug\netcoreapp3.1\Febonacci.AssemblyInfo.cs
+C:\Users\hp\source\repos\Febonacci\Febonacci\obj\Debug\netcoreapp3.1\Febonacci.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Febonacci\Febonacci\obj\Debug\netcoreapp3.1\Febonacci.dll
+C:\Users\hp\source\repos\Febonacci\Febonacci\obj\Debug\netcoreapp3.1\Febonacci.pdb
+C:\Users\hp\source\repos\Febonacci\Febonacci\obj\Debug\netcoreapp3.1\Febonacci.genruntimeconfig.cache
+C:\Users\hp\source\repos\Febonacci\Febonacci\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
