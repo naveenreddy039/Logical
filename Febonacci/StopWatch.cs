@@ -15,10 +15,10 @@ namespace Febonacci
             Console.WriteLine("enter number:");
             for(int i=0;i<1000;i++)
             {
-                Thread.Sleep(12);
+                Thread.Sleep(5);
             }
             stopwatch.Stop();
-            Console.WriteLine("elast time:{0:hh\\:mm\\:ss}",stopwatch.Elapsed);
+            Console.WriteLine("Elapsed time:{0:hh\\:mm\\:ss}",stopwatch.Elapsed);
             ////Console.WriteLine("Enter the start to start the stopwatch:");
             //String str1 = Console.ReadLine();
             //StopWatch watch= null;

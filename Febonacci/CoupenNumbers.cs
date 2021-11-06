@@ -6,19 +6,27 @@ namespace Febonacci
 {
     public class CoupenNumbers
     {
-        public void printCoupen()
+        public void printCoupen(int n)//n=5
         {
-            var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-            var stringChars = new char[6];
-            var random = new Random();
-
-            for (int i = 0; i < stringChars.Length; i++)
+            Random random = new Random();
+            //n = random.Next(1, 9);
+            int check = random.Next(1, 9);
+            //Console.WriteLine("enter the coupen Limit:");
+            int count = 0;
+            Console.WriteLine("coupen number is:" + n);
+            while(n>0)
             {
-                stringChars[i] = chars[random.Next(chars.Length)];
-            }
+                if(check==n)
+                {
+                    Console.WriteLine("number is present");
+                    break;
+                }
+                count++;
+                Console.WriteLine("count:" + count);
+                n--;
 
-            var finalString = new String(stringChars);
-            
+            }
+            Console.WriteLine("to get number we need count " + count);                     
         }
     }
 }

@@ -35,7 +35,7 @@ namespace Febonacci
                 case 5:
                     Console.WriteLine("5.Coupen Numbers:");
                     CoupenNumbers coupenNumbers=new CoupenNumbers();
-                    coupenNumbers.printCoupen();
+                    coupenNumbers.printCoupen(5);
                     break;
                 case 6:
                     Console.WriteLine("6.Stop Watch:");
